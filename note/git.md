@@ -5,4 +5,4 @@ git pull  可能会遇到拒绝合并的错误，原因使本地库和github上�
           解决方法 $git pull origin master --allow-unrelated-histories
 git commit 之前需要绑定仓库的使用者和邮箱(使用git config)
 git config 其中有一参数 --global 网上查找资料原因是该机器所有仓库都会使用这个名字，但是我曾在其他仓库使用过，却还要再另外一个仓库使用一次，这点存疑
-git commit 提交时可以（也应当要添加注释) 最好使用git commit -m "注释" 的形式 必须;
+git commit 提交时可以（也应当要添加注释) 最好使用git commit -m "注释" 的形式(四个参数都不能少);
