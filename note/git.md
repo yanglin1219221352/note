@@ -15,3 +15,4 @@ git remote add origin 仓库地址：     重新添加远程仓库地址
 
 gti push -u origin master：         提交到远程仓库的master主干
 git config --global core.editor vim 通过如下的命令把它设置为vim编辑器
+测试
