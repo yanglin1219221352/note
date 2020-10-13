@@ -1,3 +1,4 @@
+git 功能应该只能在含有.git的文件的文件夹里进行
 git init //使一个文件变为可用git管理的文件
 git clone +库  例git@github.com:yanglin1219221352/node.git
                 对其进行划分应该为git(相当方式)@github.com:xxx/xx.git(相当于地址)
@@ -15,3 +16,4 @@ git remote add origin 仓库地址：     重新添加远程仓库地址
 
 git push -u origin master：         提交到远程仓库的master主干
 git config --global core.editor vim 通过如下的命令把它设置为vim编辑器
+git diff(在文件)
