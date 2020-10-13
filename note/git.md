@@ -1,4 +1,4 @@
-git 功能应该只能在含有.git的文件的文件夹里进行
+git 功能可以在在含有.git的文件的文件夹和子文件夹里进行
 git init //使一个文件变为可用git管理的文件
 git clone +库  例git@github.com:yanglin1219221352/node.git
                 对其进行划分应该为git(相当方式)@github.com:xxx/xx.git(相当于地址)
