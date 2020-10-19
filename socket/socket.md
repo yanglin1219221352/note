@@ -1,1 +1,2 @@
-htonl 分解来看 host to network long  从主机到网络 长整型
+1、htonl 分解来看 host to network long  从主机到网络 长整型
+2、read接收网络信息时，如果用阻塞，会挂起，如果用非阻塞，会返回-1错误,进行其他操作，使用非阻塞主要采用的是轮询的办法。
